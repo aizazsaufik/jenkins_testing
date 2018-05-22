@@ -1,0 +1,5 @@
+D:\Digicon Valley\General Softwares\ToDoApp\ToDoApp.DataTransferObjects\bin\Debug\ToDoApp.DataTransferObjects.dll
+D:\Digicon Valley\General Softwares\ToDoApp\ToDoApp.DataTransferObjects\bin\Debug\ToDoApp.DataTransferObjects.pdb
+D:\Digicon Valley\General Softwares\ToDoApp\ToDoApp.DataTransferObjects\obj\Debug\ToDoApp.DataTransferObjects.dll
+D:\Digicon Valley\General Softwares\ToDoApp\ToDoApp.DataTransferObjects\obj\Debug\ToDoApp.DataTransferObjects.pdb
+D:\Digicon Valley\General Softwares\ToDoApp\ToDoApp.DataTransferObjects\obj\Debug\ToDoApp.DataTransferObjects.csprojResolveAssemblyReference.cache

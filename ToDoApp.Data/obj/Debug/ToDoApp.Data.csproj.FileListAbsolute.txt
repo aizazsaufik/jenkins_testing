@@ -1,0 +1,14 @@
+D:\Digicon Valley\General Softwares\ToDoApp\ToDoApp.Data\bin\Debug\ToDoApp.Data.dll.config
+D:\Digicon Valley\General Softwares\ToDoApp\ToDoApp.Data\bin\Debug\ToDoApp.Data.dll
+D:\Digicon Valley\General Softwares\ToDoApp\ToDoApp.Data\bin\Debug\ToDoApp.Data.pdb
+D:\Digicon Valley\General Softwares\ToDoApp\ToDoApp.Data\bin\Debug\EntityFramework.dll
+D:\Digicon Valley\General Softwares\ToDoApp\ToDoApp.Data\bin\Debug\EntityFramework.Extended.dll
+D:\Digicon Valley\General Softwares\ToDoApp\ToDoApp.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Digicon Valley\General Softwares\ToDoApp\ToDoApp.Data\bin\Debug\ToDoApp.DataTransferObjects.dll
+D:\Digicon Valley\General Softwares\ToDoApp\ToDoApp.Data\bin\Debug\ToDoApp.DataTransferObjects.pdb
+D:\Digicon Valley\General Softwares\ToDoApp\ToDoApp.Data\bin\Debug\EntityFramework.xml
+D:\Digicon Valley\General Softwares\ToDoApp\ToDoApp.Data\bin\Debug\EntityFramework.Extended.xml
+D:\Digicon Valley\General Softwares\ToDoApp\ToDoApp.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Digicon Valley\General Softwares\ToDoApp\ToDoApp.Data\obj\Debug\ToDoApp.Data.csprojResolveAssemblyReference.cache
+D:\Digicon Valley\General Softwares\ToDoApp\ToDoApp.Data\obj\Debug\ToDoApp.Data.dll
+D:\Digicon Valley\General Softwares\ToDoApp\ToDoApp.Data\obj\Debug\ToDoApp.Data.pdb
